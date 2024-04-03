@@ -8,6 +8,9 @@
 <body>
     <h1>Letra</h1>
     <?php
+        #FNAF es god
+        /*FNAF tiene lore god*/
+        //FNAF tiene juegos god
         echo <<<END
         No sé si lo hice bien, pero llamé
         No me gustó lo que eschuché.
