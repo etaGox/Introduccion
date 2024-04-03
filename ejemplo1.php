@@ -8,8 +8,9 @@
 <body>
     <h1>Letra</h1>
     <?php
-        echo 'No sé si lo hice bien, pero llamé';
-        echo 'No me gustó lo que eschuché';
-    ?>
+        echo <<<END
+        No sé si lo hice bien, pero llamé
+        No me gustó lo que eschuché.
+        END;    ?>
 </body>
 </html>
