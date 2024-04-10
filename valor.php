@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,14 @@
 </head>
 <body>
     
-    <?php define("GRAVEDAD", 9.8);
-    const GRAVEDAD = 9.8; ?>
+    <?php 
+    $tato=69;
+    $juan=35.35;
+    $deimoss="Toy chica es la unica animatronico";
+    var_dump($tato);
+    var_dump($juan);
+    var_dump($deimoss);
+    ?>
+    
 </body>
 </html>
