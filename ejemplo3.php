@@ -9,7 +9,7 @@
     <h1> Dos empresas tech uruguayas </h1>
     
     <?php
-        echo 'PedidosYa' . 'y' . 'Scanntech';
+        echo 'PedidosYa ' . 'y ' . 'Scanntech';
     ?>
 </body>
 </html>
