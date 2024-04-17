@@ -10,10 +10,10 @@
     <?php 
     $tato=69;
     $juan=35.35;
-    $deimoss="Toy chica es la unica animatronico";
+    $hm="Hola Mundo";
     var_dump($tato);
     var_dump($juan);
-    var_dump($deimoss);
+    var_dump($hm);
     ?>
     
 </body>
